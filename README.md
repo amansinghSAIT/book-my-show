@@ -1,3 +1,11 @@
+### Use, mobile no. - "123456789" to signup
+
+# FigmaLinks
+
+## [WEBSITE](https://www.figma.com/file/5Uxe9m0u0DDc9MC9Ev9dW5/Aman_Singh-227?node-id=0%3A1&t=YZk14oY85NotUEZ0-0)
+
+## [book-my-show_GIFT-CARD](https://www.figma.com/file/13S5b4ZUCdkbfdA5wgFtg2/Untitled?node-id=0%3A1&t=Q5zbb5HW2I4kgv7W-0)
+
 # bookmyshow
 
 Project to clone bookmyshow
