@@ -1,8 +1,8 @@
 # bookmyshow
 
-Team Quadrilateral, Project to clone bookmyshow
+Project to clone bookmyshow
 
-## [Demo](https://bookmyshow-clone-masaischool.netlify.app/)
+## [Demo](https://cutt.ly/gMQ3GQU)
 
 ## Clone of [Bookmyshow](https://in.bookmyshow.com/)
 
