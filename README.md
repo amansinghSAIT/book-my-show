@@ -1,3 +1,11 @@
+### Use, mobile no. - "123456789" to signup
+
+# FigmaLinks
+
+## [WEBSITE](https://www.figma.com/file/5Uxe9m0u0DDc9MC9Ev9dW5/Aman_Singh-227?node-id=0%3A1&t=YZk14oY85NotUEZ0-0)
+
+## [book-my-show_GIFT-CARD](https://www.figma.com/file/13S5b4ZUCdkbfdA5wgFtg2/Untitled?node-id=0%3A1&t=Q5zbb5HW2I4kgv7W-0)
+
 # bookmyshow
 
 Project to clone bookmyshow
@@ -20,6 +28,8 @@ BookMyShow website is basically for entertainment purpose, In this app, a user c
 
 In this project, a few technologies and packages were used, listed below
 
+FRONTEND
+
 1. React
 2. Redux-thunks
 3. Redux
@@ -29,6 +39,13 @@ In this project, a few technologies and packages were used, listed below
 7. Material UI
 8. antd
 9. React multi carousel
+
+BACKEND
+
+1. Express
+2. Mongoose
+3. Bcrypt
+4. JWT
 
 ### Install the packages
 
