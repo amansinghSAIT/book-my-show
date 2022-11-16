@@ -20,6 +20,8 @@ BookMyShow website is basically for entertainment purpose, In this app, a user c
 
 In this project, a few technologies and packages were used, listed below
 
+FRONTEND
+
 1. React
 2. Redux-thunks
 3. Redux
@@ -29,6 +31,13 @@ In this project, a few technologies and packages were used, listed below
 7. Material UI
 8. antd
 9. React multi carousel
+
+BACKEND
+
+1. Express
+2. Mongoose
+3. Bcrypt
+4. JWT
 
 ### Install the packages
 
